@@ -1,0 +1,15 @@
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\bin\Debug\Names.exe.config
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\bin\Debug\Names.exe
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\bin\Debug\Names.pdb
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\MainWindow.g.cs
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\App.g.cs
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names_MarkupCompile.cache
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names_MarkupCompile.lref
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\MainWindow.baml
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.g.resources
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.Properties.Resources.resources
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.csproj.GenerateResource.cache
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.exe
+D:\Berkas Kuliah\Semester 5\PBKK A\Tugas 3\NameList\Names\obj\Debug\Names.pdb
